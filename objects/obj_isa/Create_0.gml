@@ -1,0 +1,10 @@
+hsp = 0
+vsp = 0
+grv = 0.3
+walksp = 4
+jumpsp = 10
+global.isax = x
+global.isay = y
+ogscale = image_xscale 
+global.isaflip = true
+global.enterval=false

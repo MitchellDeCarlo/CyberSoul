@@ -1,0 +1,11 @@
+hsp = 0
+vsp = 0
+grv = 0.3
+walksp = 8
+attack=1
+hp=100
+alarm[0]=irandom_range
+jumpsp = 2
+ogscale = image_xscale
+rightvar = false
+leftvar = false

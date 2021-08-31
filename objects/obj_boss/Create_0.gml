@@ -1,0 +1,11 @@
+hsp = 0
+vsp = 0
+grv = 0.3
+walksp = irandom_range(1,3)
+jumpsp = 9
+hp=500
+deathvar=false
+ogscale = image_xscale
+rightvar = false
+leftvar = false
+shipval = false

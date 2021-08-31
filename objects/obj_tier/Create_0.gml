@@ -1,0 +1,9 @@
+global.swordlevel = 1
+global.gunlevel = 1
+global.swordtier = 1
+global.guntier = 6
+global.hp = 300
+global.coins = 0
+global.ammo = 30
+global.healthpack = 5
+global.exitt = false

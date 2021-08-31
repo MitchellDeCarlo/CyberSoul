@@ -1,0 +1,11 @@
+hsp = 0
+vsp = 0
+grv = 0.3
+walksp = 1
+jumpsp = 4
+val = 0
+hp=1
+alarm[0]=60
+ogscale = image_xscale
+rightvar = false
+leftvar = false

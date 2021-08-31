@@ -1,0 +1,1 @@
+global.bossattack = false
